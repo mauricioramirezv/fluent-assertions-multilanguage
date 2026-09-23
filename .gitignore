@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+
+# JavaScript
+node_modules/
+npm-debug.log*
+
+# Java
+target/
+*.class
+
+# IDE y sistema operativo
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
